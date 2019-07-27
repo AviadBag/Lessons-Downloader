@@ -1,0 +1,7 @@
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\obj\Debug\LessonsDownloader.csprojAssemblyReference.cache
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\obj\Debug\LessonsDownloader.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\bin\Debug\LessonsDownloader.exe.config
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\bin\Debug\LessonsDownloader.exe
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\bin\Debug\LessonsDownloader.pdb
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\obj\Debug\LessonsDownloader.exe
+C:\Programming\Projects\C#\LessonsDownloader\LessonsDownloader\obj\Debug\LessonsDownloader.pdb
